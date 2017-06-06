@@ -1,0 +1,25 @@
+{
+  "name": "uvaapi",
+  "version": "1.0.0",
+  "description": "RESTful uvaapi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JeffreyLangston/UVA.git"
+  },
+  "keywords": [
+    "RESTful"
+  ],
+  "author": "Jeff Langston",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JeffreyLangston/UVA/issues"
+  },
+  "homepage": "https://github.com/JeffreyLangston/UVA#readme",
+  "devDependencies": {
+    "nodemon": "^1.11.0"
+  }
+}
